@@ -3,7 +3,7 @@
 *TEST 100KB FILE;https://androidnetworktester.googlecode.com/files/100kb.txt
 *TEST 1MB FILE;https://androidnetworktester.googlecode.com/files/1mb.txt
 *TEST 10MB FILE;https://androidnetworktester.googlecode.com/files/10mb.txt
-======================;This is a separator line!
+=====================;This is a separator line!
 Bps file for 1.7.10;http://domain.top/file.bps
 Bps file for 1.7.8;http://domain.top/file.bps
 Bps file for 1.7.5;http://domain.top/file.bps
@@ -12,6 +12,7 @@ Bps file for 1.7.2;http://domain.top/file.bps
 Bps file for 1.6.4;http://domain.top/file.bps
 Bps file for 1.6.2;http://domain.top/file.bps
 Bps file for 1.5.2;http://domain.top/file.bps
+=====================;This is a separator line!
 Original jar for 1.7.10;http://domain.top/original.jar
 Original jar for 1.7.8;http://domain.top/original.jar
 Original jar for 1.7.5;http://domain.top/original.jar
