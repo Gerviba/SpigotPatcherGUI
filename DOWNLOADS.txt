@@ -1,4 +1,8 @@
 #DOWNLOADABLE FILES:
+*TEST 10KB FILE;https://androidnetworktester.googlecode.com/files/10kb.txt
+*TEST 100KB FILE;https://androidnetworktester.googlecode.com/files/100kb.txt
+*TEST 1MB FILE;https://androidnetworktester.googlecode.com/files/1mb.txt
+*TEST 10MB FILE;https://androidnetworktester.googlecode.com/files/10mb.txt
 Bps file for 1.7.10;http://domain.top/file.bps
 Bps file for 1.7.8;http://domain.top/file.bps
 Bps file for 1.7.5;http://domain.top/file.bps
