@@ -1,0 +1,17 @@
+#DOWNLOADABLE FILES:
+Bps file for 1.7.10;http://domain.top/file.bps
+Bps file for 1.7.8;http://domain.top/file.bps
+Bps file for 1.7.5;http://domain.top/file.bps
+Bps file for 1.7.4;http://domain.top/file.bps
+Bps file for 1.7.2;http://domain.top/file.bps
+Bps file for 1.6.4;http://domain.top/file.bps
+Bps file for 1.6.2;http://domain.top/file.bps
+Bps file for 1.5.2;http://domain.top/file.bps
+Original jar for 1.7.10;http://domain.top/original.jar
+Original jar for 1.7.8;http://domain.top/original.jar
+Original jar for 1.7.5;http://domain.top/original.jar
+Original jar for 1.7.4;http://domain.top/original.jar
+Original jar for 1.7.2;http://domain.top/original.jar
+Original jar for 1.6.4;http://domain.top/original.jar
+Original jar for 1.6.2;http://domain.top/original.jar
+Original jar for 1.5.2;http://domain.top/original.jar
